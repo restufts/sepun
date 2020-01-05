@@ -1,9 +1,9 @@
-#*DOWNLOAD TERMUX*
+# *DOWNLOAD TERMUX*
 1. BUKA PLAY STORE
 2. KETIK "TERMUX" DI PENCARIAN
 3. DOWNLOAD TERMUX
 
-#*INSTALASI/PEMASANGAN/SETUP*
+# *INSTALASI/PEMASANGAN/SETUP*
 1. BUKA TERMUX
 2. KETIK "pkg install python" di termux
 3. Enter
@@ -20,11 +20,11 @@
 14. Ketik "pip install websocket-client" di termux
 15. Enter
 
-#*PEMASANGAN SCRIPT*
+# *PEMASANGAN SCRIPT*
 1. KETIK "git clone https://github.com/diverglovsky/sepun/" di termux
 2. Enter
 
-#*MEMAKAI SCRIPT*
+# *MEMAKAI SCRIPT*
 1. BUKA TERMUX
 2. KETIK "cd sepun"
 3. Enter
